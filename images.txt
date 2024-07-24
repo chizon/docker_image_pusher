@@ -1,4 +1,4 @@
 nginx
 #支持私库
-mysql8.0.37
+beginor/gitlab-ce:11.3.0-ce.0
 #支持指定架构
