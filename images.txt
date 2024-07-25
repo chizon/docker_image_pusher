@@ -1,3 +1,3 @@
 #支持私库
-minio/minio:latest
+gitea/gitea:1.11.8
 #支持指定架构
