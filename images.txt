@@ -1,3 +1,5 @@
 #支持私库
 redis:6.2.14
+apache/rocketmq:4.9.4
+apacherocketmq/rocketmq-dashboard:1.0.0
 #支持指定架构
